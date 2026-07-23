@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ramazan Allahverdizadə 
+# Hi, I'm Ramazan Allahverdizada
 
 ### Economics Student @ UNEC • Data Science • Machine Learning • AI
 
