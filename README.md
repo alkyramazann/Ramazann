@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Ramazan Allahverdizada Banner" width="100%">
+  <img src="assets/bannerr.png" alt="Ramazan Allahverdizada Banner" width="100%">
 </p>
 
 <br>
